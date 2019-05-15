@@ -18,8 +18,3 @@ A boilerplate for [Node.js](https://nodejs.org/en) App.
 - mongoose (>= 3.6.2)
 - redis
 
-### Under Maintenance Page
-
-![Under Maintenance Page](/screens/UnderMaintenance.png)
-
-> Note: In case, a error is generated so instead of plain error we show under maintenance page
